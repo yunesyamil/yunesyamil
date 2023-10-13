@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-<p>Soy un apasionado estudiante de programación <br>con un enfoque en tecnologías como <br>Java, Python, MySQL, JavaScript, HTML y CSS. <br>Actualmente, trabajo como profesor <br>de educación secundaria.</p>
+<p>Soy un apasionado estudiante de programación <br>con un enfoque en tecnologías como <br>Java, Python, MySQL, JavaScript, HTML y CSS. <br>Actualmente, trabajo como profesor <br>de educación secundaria en electricidad y electrónica.</p>
 
 
 ## 🌐 Socials:
